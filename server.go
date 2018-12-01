@@ -63,5 +63,7 @@ func main() {
     // authorize client to use pusher channels
     http.HandleFunc("/pusher/auth", pusherAuth)
 
+    fmt.Printf("Server is running...")
+
     log.Fatal(http.ListenAndServe(":8090", nil))
 }
