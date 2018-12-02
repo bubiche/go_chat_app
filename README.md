@@ -13,3 +13,6 @@ Access the app by entering this address on your browser: http://127.0.0.1:8090
 
 ### Chat screen:
 ![alt text](https://github.com/bubiche/go_chat_app/raw/master/screenshot/chat_screen.png)
+
+
+Tut: https://pusher.com/tutorials/chat-app-go
